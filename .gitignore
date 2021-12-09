@@ -1,0 +1,12 @@
+target/
+
+#Idea
+*.iml
+.idea
+
+logs/
+*.stackdump
+temp*
+
+key.txt
+key.txt.pub
